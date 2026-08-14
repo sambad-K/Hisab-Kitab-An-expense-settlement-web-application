@@ -807,10 +807,14 @@ Hisab Kitab is continuously being improved with additional features, UI refineme
 #  Author
 
 **Sambad Khatiwada**
+Full-Stack Developer
 
-
-Backend & Full-Stack Developer
-
+---
+---
+## Contact
+- Email: sambadkhatiwada939@gmail.com
+- Linkedin:https://www.linkedin.com/in/sambad-khatiwada/
+- Github: https://github.com/sambad-K/
 ---
 
 #  Acknowledgements
