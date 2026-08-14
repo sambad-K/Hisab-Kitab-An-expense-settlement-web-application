@@ -1,0 +1,19 @@
+ignore = ["RUF012"]
+[tool.ruff]
+line-length = 88
+extend-ignore = E501
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "I"
+]
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "psycopg2-binary>=2.9.12",
+]
