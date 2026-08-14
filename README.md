@@ -577,7 +577,7 @@ Search parameters are also supported for functionality such as group searching.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -804,7 +804,7 @@ Hisab Kitab is continuously being improved with additional features, UI refineme
 
 ---
 
-# 👨 Author
+#  Author
 
 **Sambad Khatiwada**
 
