@@ -1,4 +1,4 @@
-# Split — Expense Sharing & Group Settlement Platform
+# Hisab Kitab — Expense Sharing & Group Settlement Platform
 
 A full-stack expense management web application designed to simplify **group expense tracking, individual share management, and settlement calculation**.
 
