@@ -807,7 +807,6 @@ Hisab Kitab is continuously being improved with additional features, UI refineme
 #  Author
 
 **Sambad Khatiwada**
-Full-Stack Developer
 
 ---
 ---
